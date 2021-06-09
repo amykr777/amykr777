@@ -37,7 +37,7 @@
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/hrittikhere/hrittikhere/blob/master/abcd.gif" />
+</div><img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" />
 
 -----
 Credits: [Aman Kumar](https://github.com/amykr777)
