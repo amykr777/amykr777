@@ -20,7 +20,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
+### Finding out effective ways of manipulating the vulnerable domains
 - 🔭 Profound knowledge of Networking Security :grin:
 - 🌱 have conducted various Penetration Testing Assessments
 - 👯 I’m looking to collaborate with other Developers :wink:
